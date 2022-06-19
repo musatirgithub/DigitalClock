@@ -28,10 +28,16 @@ main{
     align-items: flex-end;
     padding-right: 6rem;
     gap: 1rem;
+    user-select: none;
 }
 .upperline{
     padding-top: 1rem;
 }
+
+.upperline .month{
+    padding-left: 1.5rem;
+}
+
 .lowerline{
     display: flex;
     justify-content: space-evenly;
