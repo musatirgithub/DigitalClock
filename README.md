@@ -1,7 +1,7 @@
 # [Click here to reach Digital Wristwatch Project](https://musatirgithub.github.io/DigitalClock/index.html)
 <h3>Hi there ✋. In this project, I've created a digital clock. For this purpose;</h3>
 <ul>
-  <li>First I've palced a wrist watch image as background,</li>
+  <li>First I've placed a wrist watch image as background,</li>
   <li>Then in JavaScript file I've created a new Date,</li>
   <li>Received hour, minute, second, day and month from the date,</li>
   <li>By using setInterval function I've reteieved data in every second,</li>
