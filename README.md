@@ -1,4 +1,4 @@
-# [Click here to reach Random User Generator Project](https://musatirgithub.github.io/DigitalClock/index.html)
+# [Click here to reach Digital Wristwatch Project](https://musatirgithub.github.io/DigitalClock/index.html)
 <h3>Hi there ✋. In this project, I've created a digital clock. For this purpose;</h3>
 <ul>
   <li>First I've palced a wrist watch image as background,</li>
